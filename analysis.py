@@ -1,1 +1,1 @@
-print("hello genomics")
+print("my first bioinformatics project")
